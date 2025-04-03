@@ -4,9 +4,9 @@ Hand Gesture Recognition using OpenCV, MediaPipe & TensorFlow
    gestures and can be used for applications like virtual controls, sign language recognition, and human-computer interaction.
 
    Features:
-      •	Real-time hand tracking using MediaPipe Hands
-      •	Deep learning-based gesture classification using a CNN model
-      •	Fast and efficient processing with OpenCV 
+      •	Real-time hand tracking using MediaPipe Hands.
+      •	Deep learning-based gesture classification using a CNN model.
+      •	Fast and efficient processing with OpenCV.
 
 
    Technologies Used:
